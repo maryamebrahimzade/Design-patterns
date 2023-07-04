@@ -1,4 +1,4 @@
-package org.mapsa.structural.proxy.example3;
+package org.mapsa.structural.proxy.image;
 
 public interface Image {
     void display();

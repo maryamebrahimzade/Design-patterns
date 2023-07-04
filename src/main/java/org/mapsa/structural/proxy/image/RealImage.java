@@ -1,4 +1,4 @@
-package org.mapsa.structural.proxy.example3;
+package org.mapsa.structural.proxy.image;
 
 public class RealImage implements Image{
     private String fileName;

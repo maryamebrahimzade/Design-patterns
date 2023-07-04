@@ -1,4 +1,4 @@
-package org.mapsa.structural.proxy.example2;
+package org.mapsa.structural.proxy.print;
 
 public class PrintProxy implements Print {
     private final PrintClass printClass;

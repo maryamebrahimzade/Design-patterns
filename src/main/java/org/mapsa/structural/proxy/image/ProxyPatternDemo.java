@@ -1,4 +1,4 @@
-package org.mapsa.structural.proxy.example3;
+package org.mapsa.structural.proxy.image;
 
 public class ProxyPatternDemo {
     public static void main(String[] args) {

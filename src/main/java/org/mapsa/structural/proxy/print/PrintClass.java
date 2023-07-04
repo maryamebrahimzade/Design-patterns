@@ -1,4 +1,4 @@
-package org.mapsa.structural.proxy.example2;
+package org.mapsa.structural.proxy.print;
 
 public class PrintClass implements Print{
     @Override

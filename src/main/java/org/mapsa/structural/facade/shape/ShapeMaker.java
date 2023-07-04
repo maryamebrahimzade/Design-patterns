@@ -1,6 +1,6 @@
 package org.mapsa.structural.facade.shape;
 
-//Create a facade class concrete class that will use MobileShop interface.
+//Create a facade class concrete class that will use Shape interface.
 public class ShapeMaker {
     private Shape circle;
     private Shape rectangle;
