@@ -1,4 +1,4 @@
-package org.mapsa.structural.flyweight.exampleone;
+package org.mapsa.structural.flyweight.shape;
 
 public class Circle implements Shape {
     private String color; //intrinsic property

@@ -1,4 +1,4 @@
-package org.mapsa.structural.flyweight.exampleone;
+package org.mapsa.structural.flyweight.shape;
 
 import java.util.HashMap;
 

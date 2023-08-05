@@ -1,4 +1,4 @@
-package org.mapsa.structural.flyweight.exampleone;
+package org.mapsa.structural.flyweight.shape;
 
 public class FlyweightPatternDemo {
     private static final String colors[] = { "Red", "Green", "Blue", "White", "Black" };
