@@ -42,9 +42,11 @@ class Main {
         Prototype prototype = new Prototype();
         prototype.setSomeInt(2);
         prototype.setSomeString("maryam");
+        //Shallow copy
         Prototype copy=prototype.copy();
         copy.setSomeString("copy");
 
+        //Deep copy
         Prototype clone=prototype.deepCopy();
         clone.setSomeString("clone");
 

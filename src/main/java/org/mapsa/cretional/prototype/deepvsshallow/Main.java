@@ -1,4 +1,4 @@
-package org.mapsa.cretional.prototype.copydeepandshallow;
+package org.mapsa.cretional.prototype.deepvsshallow;
 
 import java.util.ArrayList;
 import java.util.List;
